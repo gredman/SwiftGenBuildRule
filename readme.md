@@ -1,6 +1,8 @@
 Proof of Concept SwiftGen Build Rule
 ====================================
 
+![Build Rule](https://raw.githubusercontent.com/gredman/SwiftGenBuildRule/main/images/rule.png)
+
 A custom build rule takes two files as input:
 
 - the swiftgen.yml config
